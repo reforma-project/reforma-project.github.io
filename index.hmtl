@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>REFORMA</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cabin">
+    <style>
+      html, body, iframe {
+        height: 90%; width: 100%; margin: 0; border: 0; display: block
+      }
+      body {
+        font-family: "Cabin", sans-serif;
+      }
+      .container {
+        margin: 8px
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Charcoal estimation app.</h1>
+    </div>
+    <iframe src="https://sambowers.users.earthengine.app/view/reformav2"></iframe>
+  </body>
+</html>
